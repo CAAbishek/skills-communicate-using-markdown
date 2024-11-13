@@ -7,7 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+
 # Communicate using Markdown
+## My Header Text
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -25,45 +27,37 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
+**What is a _header_?**
 
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
-
-**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+A header is a larger bit of text at the beginning of a section. There are six sizes.
 
 ### Example
 
 ```md
-# This is an `<h1>` header, which is the largest
+# This is an `<h1>` header, The largest
+
 
 ## This is an `<h2>` header
 
-###### This is an `<h6>` header, which is the smallest
+###### This is an `<h6>` header,  The smallest
 ```
 
 #### How it looks
 
-# This is an `<h1>` header, which is the largest
+## Hii.. I'm *CA Abishek* 
+### I'm very happy to learn about **arkdown Languages** 
+##### It will helpful for all to learn about Markdown languages 
+##### Image : ![image](https://github.com/user-attachments/assets/5be93033-56fb-4e99-ab9f-3991a23b9221)
 
-## This is an `<h2>` header
+##### Contact : <ins> www.linkedin.com/in/abishek-ca </ins>
 
-###### This is an `<h6>` header, which is the smallest
 
-### :keyboard: Activity: Edit your file with headers
+###### "Practice Makes a Man Perfect"
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Open the **pull requests** tab.
-1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
-1. Click **Create pull request**.
-1. In this pull request, go to the **Files changed** tab. We made an empty file `index.md` for you.
-1. Select **Edit file** from the three dotted **...** menu in the upper right corner of the file view on `index.md`.
-1. On the **Edit file** tab, add a `#`, followed by a **space**, before any content you like to make it an H1 Header. You can add more headers, using one to six `#` characters followed by a **space**.
-1. Above your new content, click **Preview**.
-1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
-1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+
+
+
 
 <footer>
 
